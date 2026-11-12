@@ -2,3 +2,5 @@ These are my notes.
 I am learnning Git commands.
 Today I learned how to use Git commits.
 I practiced my second Git exercise.
+I am learning how to stage and unstage files.
+
