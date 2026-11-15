@@ -1,0 +1,2 @@
+This is my feature branch.
+I am learning Git merge.
