@@ -1,1 +1,3 @@
-This sentence was changed on the master branch.
+The master version.
+
+The vscode-conflict-practice version.
